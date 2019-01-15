@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+
+    "name": "Noisli Keyboard Shortcuts",
+    "description": "Noisli.com shortcuts to mute, randomize, etc.",
+    "version": "1.0",
+
+    "content_scripts": [
+	{
+	    "matches": ["https://www.noisli.com/"],
+	    "js": ["script.js"]
+	}
+    ]
+}
