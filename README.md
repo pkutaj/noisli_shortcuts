@@ -3,8 +3,6 @@ this is all thanks to https://github.com/agentwaj/noisli-shortcuts !
 
 <b>Note: This makes Noisli text editor rather useless<b>
 
-Keyboard shortcuts for the Noisli background noise generator:
-
 Key | Description
 ---|---
 M | Mute
