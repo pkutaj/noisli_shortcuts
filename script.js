@@ -18,7 +18,7 @@ function main() {
         break;
       case 83: // 'r'
         tmrStart.click();
-        console.log('timer toggled');
+        console.log('random toggled');
         break;
       case 84: // 't'
         tmr.click();
