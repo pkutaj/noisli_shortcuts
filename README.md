@@ -1,11 +1,14 @@
-# Noisli Keyboard Shortcuts
+# Advanced Noisli Keyboard Shortcuts
+this is all thanks to https://github.com/agentwaj/noisli-shortcuts !
 
-Keyboard shortcuts for the Noisli background noise generator:
+<b>Note: This makes Noisli text editor rather useless<b>
 
 Key | Description
 ---|---
 M | Mute
 R | Random
+S | Start / Stop Timer
+T | Toggle Timer / Mixer View
 
 Hello world!!!
 
